@@ -1,0 +1,35 @@
+[33mcommit f9fb63457a9745fbbce79d139b80f87734dd15b4[m[33m ([m[1;36mHEAD -> [m[1;32mEJ2Bcambio[m[33m, [m[1;31morigin/EJ2Bcambio[m[33m)[m
+Author: Nicolas Gomez <nicogomezgarcia1@gmail.com>
+Date:   Fri Oct 13 10:57:30 2023 +0200
+
+    realizacion del ejercicio 2 y quitar archivo 04 tras leer enunciado del 3
+
+[33mcommit 244279f34c4cc822e4d29c0bb601700c5e073b61[m
+Author: Nicolas Gomez <nicogomezgarcia1@gmail.com>
+Date:   Tue Oct 10 10:57:39 2023 +0200
+
+    comprobar que esta en github
+
+[33mcommit cbcace39fde110e9088e3b4902906e2477690a93[m
+Author: Nicolas Gomez <nicogomezgarcia1@gmail.com>
+Date:   Tue Oct 10 10:28:59 2023 +0200
+
+    arreglo de archivos con add
+
+[33mcommit ea6815a8ab493637708212a998636126b29208a5[m
+Author: Nicolas Gomez <nicogomezgarcia1@gmail.com>
+Date:   Tue Oct 10 10:26:17 2023 +0200
+
+    eliminar archivos por forma incorrecta de hacer add
+
+[33mcommit 351285c71efe473e004c07961ccbc366073bb0d3[m
+Author: Nicolas Gomez <nicogomezgarcia1@gmail.com>
+Date:   Tue Oct 10 10:09:50 2023 +0200
+
+    descarga y añadir archivos de la tarea al repositorio github
+
+[33mcommit 4f00e3993d83faf2663244f406babcc9161e4bb4[m
+Author: Nicolás Gómez García <116350731+morosumpa@users.noreply.github.com>
+Date:   Tue Oct 10 10:00:00 2023 +0200
+
+    Initial commit
